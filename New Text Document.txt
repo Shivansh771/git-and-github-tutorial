@@ -1,4 +1,9 @@
 welcome
 author: ll
+<<<<<<< HEAD
 twitter :shivansh
 lastname :Tariyal
+=======
+tiwtter :shivansh
+middle name: none
+>>>>>>> feature/middlename
